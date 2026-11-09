@@ -22,7 +22,7 @@ Nenhuma instalação extra é necessária, pois as bibliotecas já vêm com o Py
 ## Como usar
 
 ```bash
-python timer.py
+python main.py
 ```
 
 Para testar rapidamente, altere `MINUTOS_DE_ESTUDO` para `0.1` no topo do arquivo.
